@@ -18,9 +18,17 @@ This is minimalist design and concept to make online registration and online Exa
 
 
 
-## Screenshots
-
+## Screenshots of Home Page
 ![App Screenshot](https://raw.githubusercontent.com/sgrgug/soeexam/master/img/Screenshot%20PU%20Exam.png)
+
+## Screenshots of Registration
+![App Screenshot](https://raw.githubusercontent.com/sgrgug/soeexam/master/img/Screenshot%20Result.png)
+
+## Screenshots of Examination
+![App Screenshot](https://raw.githubusercontent.com/sgrgug/soeexam/master/img/Screenshot%20Online%20%20Examination.png)
+
+## Screenshots of Result
+![App Screenshot](https://raw.githubusercontent.com/sgrgug/soeexam/master/img/Screenshot%20Result.png)
 
 
 ## Run Locally
